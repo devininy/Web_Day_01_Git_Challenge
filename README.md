@@ -1,6 +1,6 @@
-# Web_Day_06_Git_Challenge
+# Web_Day_01_Git_Challenge
 
-### Day 06: April 07, 2020 11:17
+### Day 01: April 07, 2020 11:17
 
 **Challenge**: Git에 대해 정리하기
 
